@@ -10,8 +10,8 @@ A physicist transitioning into data scientist.
 I spend my time automating things, building pipelines and extracting meaning from noisy experimental data. 
 
 - 🔭 I’m currently working on:
-  - Data pipelines for collecting, cleaning and presenting experimental data ([Python package](https://garethjmoore.github.io/Femtomat_Package/))
+  - Data pipelines for collecting, cleaning and presenting experimental data (✨[Python package](https://garethjmoore.github.io/Femtomat_Package/))
   - Streamlining complex data decomposition and fitting for myself and my collegues. 
-  - Machine learning for molecular property prediction ([published work](https://onlinelibrary.wiley.com/doi/full/10.1002/adts.202100511)).
+  - Machine learning for molecular property prediction (✨ [published work](https://onlinelibrary.wiley.com/doi/full/10.1002/adts.202100511)).
 - 🌱 I’m currently learning Graph Neural Networks (for property prediction on organic molecules).
 
