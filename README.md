@@ -14,5 +14,3 @@ I spend my time automating things, building pipelines and extracting meaning fro
 - 🌱 I’m currently learning Graph Neural Networks (for property prediction on organic molecules).
 - ⌚ Ask me about my love for watches. <a href="https://www.instagram.com/watch_moore" target="_blank" rel="nofollow"><img align="" alt="Gareth's Insta" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 
-
-![tracktors]
